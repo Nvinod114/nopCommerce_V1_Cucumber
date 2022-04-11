@@ -1,0 +1,7 @@
+pageObjects\nopCommerceLoginPage.class
+pageObjects\searchCustomerPage.class
+stepDefinition\nopCommerceLoginSteps_TC_001.class
+utilities\WaitHelper.class
+pageObjects\NopAddCustomersPage.class
+testRunner\testRunner.class
+stepDefinition\baseClass.class
